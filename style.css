@@ -1,9 +1,10 @@
-html{background-color: palevioletred;}
+html{background-color: rgb(180, 2, 180);}
 #Main{width:50%; margin-left: 25%; ;}
 #puss{border: 5px solid white; width:100%;}
 #Bold
 {font-family: "Libre Baskerville", serif; 
     text-align: center; 
+    font-size: 3rem;
     color: white; 
     background-color: black;
     
@@ -13,6 +14,6 @@ html{background-color: palevioletred;}
 #text
 {
     text-align: center; 
-    margin: 0px;
+    font-size: 3rem;
     color: black; 
 }
